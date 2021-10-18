@@ -1,0 +1,16 @@
+{
+"companyName": "Brennin Rumfelt",
+"productName": "Roll a Ball 2nd Period",
+"productVersion": "1.0",
+"dataUrl": "Roll-A-Ball 2nd period.data.unityweb",
+"wasmCodeUrl": "Roll-A-Ball 2nd period.wasm.code.unityweb",
+"wasmFrameworkUrl": "Roll-A-Ball 2nd period.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.30f1"
+}
